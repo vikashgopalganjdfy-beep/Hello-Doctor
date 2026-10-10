@@ -1,0 +1,6 @@
+{
+  "name": "HELLO DOCTOR - Gopalganj & Siwan Healthcare",
+  "description": "Trusted healthcare and doctor discovery platform for Gopalganj and Siwan, Bihar. Find verified doctors, book appointments, explore hospitals, clinics, and health checkup packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
